@@ -1,9 +1,12 @@
-# Weigth scale using a load cell
-![alt text](https://code.engineering.queensu.ca/mren303_w2024/section003_group12_the_good_designosaur/-/raw/main/Round%203/Schematic.png?ref_type=heads)
+# weight scale using a load cell
+![alt text](https://github.com/Ryley5/Ryley5/blob/main/processed-c717a74b-9d2a-48dc-86d3-3bb0295a7f5f_JI2HaGDs.jpeg?ref_type=heads)
+
+This project was about making an atuonomaus dog feeder for my sensors and actuators coruse at Queens University. My role in the project was to make the feedback system which used a load cell to determine how much dog food was dispensed. Skills used to achieve this were coding in Arduino and doing 3D modeling in SolidWorks. The code had to read signals from the load cell and convert it to a mass of food while the 3D modeling was to make the green top plate and base.
 # Manual and atuonomaus mobile robot
-![alt text](https://code.engineering.queensu.ca/mren303_w2024/section003_group12_the_good_designosaur/-/raw/main/Round%203/Schematic.png?ref_type=heads)
+![alt text](https://github.com/Ryley5/Ryley5/blob/main/original-af5086bf-6918-4d64-bfce-7b8284436616.jpeg?ref_type=heads)
+
+This project was about making an atuonomaus and manual driven moblie robot which needed to also pick up objects for my third year desgin coruse at Queens University. My role in the project was to make the base of the robot as well as the line sensing code for the atuonomaus drive. Skills used to achieve this were coding in Arduino, doing 3D modeling in Fusion360 and fabracating the base together. The code had to read signals from the onboard line sensor and determine one of three states.If it didn't see the line go striaght, if the left sensor seen the line turn left and if the right sensor seen the line go right. The 3D model needed to be big enough to house all the eletronics such as the main board, batterypack, counter weight box and motors. 3D modeling also inculed making a mounting piece to hold the line follower sensor.
 # 3D modeling with ANSYS code
-![alt text](https://code.engineering.queensu.ca/mren303_w2024/section003_group12_the_good_designosaur/-/raw/main/Round%203/Schematic.png?ref_type=heads)
+![alt text](https://github.com/Ryley5/Ryley5/blob/main/IMG_20241120_090857_634.jpg?ref_type=heads)
 
-
-
+This project was about making a 3D model of a car jack for design optimization for my forth year CAD coruse at Queens University. My role in the project was to make the head of the jak the part that extends out from the trapazoial base. Skills used to achieve this were coding in ANSYS and using Excel to hasten the coding process. Coding in ANSYS entailed making a txt file that ANSYS could read using the read input from file option. Within the file was the manual meshing code to make hexahedral Solid 185 elements this includes keypoint definiton from a local defined plane , line definition to join the keypoints together, area definitions to make the sides of the elements from the lines and finally volume definition using six defined areas. Excel was used to keep track of all the code as well as helping to make new code when moving onto the next layer of the head piece.
